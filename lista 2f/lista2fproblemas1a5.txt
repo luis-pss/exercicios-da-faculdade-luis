@@ -1,0 +1,33 @@
+problema 1:
+
+se X > Y e Z != 0 e X + Z > 50 ou Y % 2 == 0 e >= 0:
+	print ("condicao atendida")
+senão:
+	print ("condicao nao atendida")
+
+problema 2:
+
+se N % 5 == 0 e M > 100 ou N + M < 200 e >= 0:
+	print ("valores aceitos")
+senão:
+	print ("valores nao aceitos")
+
+problema 3:
+
+se A >= 0 e B > A ou C % 2 == 0 e C > 10 e (A + B + C) > 100:
+	print ("Aprovado.")
+senão:
+	print ("Reprovado.")
+
+problema 4:
+
+se idade > 18 e cidade = "Mogi" ou curso = "ADS" ou curso = "RH" e nome não "Z":
+	print ("Cadastro válido.")
+senão:
+	print ("Cadastro inválido.")
+
+problema 5:
+se nota >= 7 e status == "ativo" ou turma not == "noite" e matricula > 1000:
+	print ("Aluno aprovado.")
+senão:
+	print ("Aluno reprovado.")
